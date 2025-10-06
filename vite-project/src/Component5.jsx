@@ -6,7 +6,7 @@ const Component5 = (props) => {
       </div>
       <div className="flex flex-row">
         <div className="text-5xl p-5 mt-3 text-[#7a36d9]">
-          <a href="https://github.com/w87895wen">
+          <a href="https://github.com/w7978708wen">
             <i className="fa-brands fa-github"></i>
           </a>
         </div>
