@@ -80,14 +80,10 @@ function App() {
       <div className="bg-[#012746] text-purple-600  text-2xl text-right">.</div>
       <img
         className="object-cover h-[320px] w-[1400px]"
-        src="https://github.com/w87895wen/React-Project/blob/main/vite-project/images/shooting%20star(800%20x%20300%20px).png?raw=true"
+        src="https://github.com/w7978708wen/React-Project/blob/main/vite-project/images/paper(1100%20x%20400%20px).png?raw=true"
       />
       <Component4>text</Component4>
       <div className="bg-[#012746] text-purple-600  text-2xl text-right">.</div>
-      <img
-        className="object-cover h-[400px] w-[1400px]"
-        src="https://github.com/w87895wen/React-Project/blob/main/vite-project/images/shooting%20star(800%20x%20300%20px).png?raw=true"
-      />
       <Component5>text</Component5>
     </div>
   );
