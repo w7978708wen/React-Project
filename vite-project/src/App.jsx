@@ -10,7 +10,7 @@ import Component5 from "./Component5.jsx";
 const DISPLAYS = [
   {
     q1: "Name:",
-    a1: "W i n g c h e e",
+    a1: "W. Wen",
     q2: "Bucket list item:",
     a2: "Go to Summit One Vanderbilt",
     imageUrl:
